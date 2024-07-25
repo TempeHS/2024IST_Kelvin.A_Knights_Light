@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 128
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -127,27 +127,6 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 256
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 40e078ae43480834482268a6a5e89b90
-      internalID: 2117988590
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goblin_1
-      rect:
-        serializedVersion: 2
-        x: 0
         y: 128
         width: 128
         height: 128
@@ -158,8 +137,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3f886135d125fe4fb844ba034566959
-      internalID: -131731810
+      spriteID: 37161563209b99b4783734e1544d1c1a
+      internalID: 2105461531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09750de1b0110b45a8c1ab15f7eaa38
+      internalID: -357977332
       vertices: []
       indices: 
       edges: []
@@ -179,8 +179,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f07223affb4a81a4b8654a78e1184f97
-      internalID: -298067707
+      spriteID: 51e1af653f6d6414cb0c3e25cbd3832a
+      internalID: -1635976654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5709936dab8ae1d48b465373632770bb
+      internalID: -2010349123
       vertices: []
       indices: 
       edges: []
@@ -196,9 +217,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Goblin_0: 2117988590
-      Goblin_1: -131731810
-      Goblin_2: -298067707
+      Goblin_0: 2105461531
+      Goblin_1: -357977332
+      Goblin_2: -1635976654
+      Goblin_3: -2010349123
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
