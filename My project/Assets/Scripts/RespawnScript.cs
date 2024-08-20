@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class RespawnScript : MonoBehaviour
 {
-    public int Respawn; 
+    public int Basics; 
     // Start is called before the first frame update
     void Start()
     {
@@ -22,7 +22,7 @@ public class RespawnScript : MonoBehaviour
     {
         if(other.CompareTag("Player"))
         {
-            SceneManager.LoadScene(Respawn); 
+            SceneManager.LoadScene("Basics"); 
         }
     }
 }
