@@ -3,8 +3,9 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+public Animator animator;
 private float horizontal;
-private float speed = 7f;
+private float speed = 2.5f;
 private float jumpingPower = 14f;
 private bool isFacingRight = true;
 private bool isWallSliding;
@@ -38,12 +39,20 @@ private void Update()
         return;
     }
 
-    horizontal = Input.GetAxisRaw("Horizontal");
+    horizontal = Input.GetAxisRaw("Horizontal") * speed;
+        animator.SetFloat("Speed", Mathf.Abs(horizontal));
+
+ 
+    
+    
 
     if (Input.GetButtonDown("Jump") && IsGrounded())
     {
         rb.velocity = new Vector2(rb.velocity.x, jumpingPower);
+         animator.SetBool("isJumping", true);
     }
+
+   
 
     if (Input.GetButtonUp("Jump") && rb.velocity.y > 0f)
     {
@@ -63,6 +72,7 @@ private void Update()
         Flip();
     }
 }
+
 
 
 private void FixedUpdate()
