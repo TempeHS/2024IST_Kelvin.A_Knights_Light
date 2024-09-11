@@ -24,6 +24,8 @@ private float wallJumpingCounter;
 private float wallJumpingDuration = 0.4f;
 private Vector2 wallJumpingPower = new Vector2(8f, 16f);
 
+public CoinManager cm;
+
 [SerializeField] private Rigidbody2D rb;
 [SerializeField] private Transform groundCheck;
 [SerializeField] private LayerMask groundLayer;
@@ -171,5 +173,14 @@ private IEnumerator Dash()
     isDashing = false;
     yield return new WaitForSeconds(dashingCooldown);
     canDash = true;
+}
+
+void OnTriggerEnter2D(Collider2D other)
+{
+    if (other.gameObject.CompareTag("Coin"))
+    {
+        Destroy(other.gameObject);
+        cm.coinCount++;
+    }
 }
 }
