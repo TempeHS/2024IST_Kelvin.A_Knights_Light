@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/b3b530ec-3bd9-42b2-b68c-0a961a1a589b
 
 ![Post Processing](https://github.com/user-attachments/assets/6a2f9842-49d7-496c-88e8-5a3adddda8da)
 
-![Fire VFX](https://github.com/user-attachments/assets/71c99267-0dc1-494d-ad6a-6fdcb764bb95)
+![Fire Shader](https://github.com/user-attachments/assets/b67c547f-0fb0-484e-95a5-b6635df883c9)
 
 ![Fog VFX](https://github.com/user-attachments/assets/fb316b80-9147-4a8a-bfb5-8f8b37d856ff)
 
