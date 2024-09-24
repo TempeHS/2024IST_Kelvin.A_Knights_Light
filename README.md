@@ -22,3 +22,9 @@
 - S, Move down on **some** platforms
 - Left Shift, Dash
 - Space, Jump
+
+## Controller
+- Left Joystick, Move around **Left and Right only**
+- Left joystick Down, Move down on **some** platforms
+- Y, Jump
+- **Dash Currently Unresponsive**
