@@ -16,4 +16,9 @@
 
 # User Control Guide
 ## Keyboard And Mouse
-<p></p>
+### Press Keys for:
+- A, Move Left
+- D, Move right
+- S, Move down on **some** platforms
+- Left Shift, Dash
+- Space, Jump
