@@ -5,4 +5,5 @@
 
 # What I had made
 <p>The game which I had made is a simple platformer wiht simple features, I made the game visually appealing through use of **lighting, shadows, shaders and post-processing** in order to create more depth visually</p>
-!(![Post](https://github.com/user-attachments/assets/56e87950-b3c1-4d3e-b680-793b1ff6d71f))
+![Post](https://github.com/user-attachments/assets/6a2f9842-49d7-496c-88e8-5a3adddda8da)
+
