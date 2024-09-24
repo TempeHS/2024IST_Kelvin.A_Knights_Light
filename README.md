@@ -18,14 +18,14 @@ https://github.com/user-attachments/assets/b3b530ec-3bd9-42b2-b68c-0a961a1a589b
 # User Control Guide
 ## Keyboard And Mouse
 ### Press Keys for:
-- A, Move Left
-- D, Move right
-- S, Move down on **some** platforms
-- Left Shift, Dash
-- Space, Jump
+- _A_, Move Left
+- _D_, Move right
+- _S_, Move down on **some** platforms
+- _Left Shift_, Dash
+- _Space_, Jump
 
 ## Controller
-- Left Joystick, Move around **Left and Right only**
-- Left joystick Down, Move down on **some** platforms
-- Y, Jump
+- _Left Joystick_, Move around **Left and Right only**
+- _Left joystick Down_, Move down on **some** platforms
+- _Y_, Jump
 - **Dash Currently Unresponsive**
