@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-# Table of contents
+Table of contents
   </h1>
   
   - [Demonstration](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/README.md#quick-demonstration--gameplay)
