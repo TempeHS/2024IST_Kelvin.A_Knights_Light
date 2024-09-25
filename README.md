@@ -4,8 +4,10 @@
 
 <h1 align="center">
 # Table of contents
-['Demonstration'](#https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/README.md#quick-demonstration--gameplay)
-</h1>
+  </h1>
+  
+  - [Demonstration](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/README.md#quick-demonstration--gameplay)
+
 
 # Quick Demonstration & Gameplay
 https://github.com/user-attachments/assets/b3b530ec-3bd9-42b2-b68c-0a961a1a589b
