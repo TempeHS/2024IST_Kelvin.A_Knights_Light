@@ -3,11 +3,8 @@ s# 2024IST_Kelvin.A_
 # Quick Demonstration & Gameplay
 https://github.com/user-attachments/assets/b3b530ec-3bd9-42b2-b68c-0a961a1a589b
 
-# What I intended to make
-<p>What I had originally intended to make was a more complex game with a added QTE (Quick Time Event) Enemy killing system. The game originally was suppose to target racism, but with limited time the features to implement this idea was not reached as focuses on core components of the game was more key to the time, such things as movement, a monster system, vfx and shaders.</p>
-
-# What I had made
-<p>The game which I had made is a simple platformer wiht simple features, I made the game visually appealing through use of **lighting, shadows, shaders and post-processing** in order to create more depth visually</p>
+# Overview of Game
+<p>This game was made as a project for an assesment, fitting a used to be criteria of "games for change" which was not really met at all. In the game you play as a knight with a special light which lights the path around him, various challenging obstacles can be found in the game such as falling platforms and goblins, increasing the difficulty and making it less _stale_ and _boring_</p>
 
 # User Control Guide
 ## Keyboard And Mouse
