@@ -4,7 +4,7 @@ s# 2024IST_Kelvin.A_
 https://github.com/user-attachments/assets/b3b530ec-3bd9-42b2-b68c-0a961a1a589b
 
 # Overview of Game
-<p>This game was made as a project for an assesment, fitting a used to be criteria of "games for change" which was not really met at all. In the game you play as a knight with a special light which lights the path around him, various challenging obstacles can be found in the game such as falling platforms and goblins, increasing the difficulty and making it less _Stale_ and _Boring_</p>
+<p>This game was made as a project for an assesment, fitting a used to be criteria of "games for change" which was not really met at all. In the game you play as a knight with a special light which lights the path around him, various challenging obstacles can be found in the game such as falling platforms and goblins, increasing the difficulty and making it less </p> _Stale_ and _Boring_
 
 # User Control Guide
 ## Keyboard And Mouse
