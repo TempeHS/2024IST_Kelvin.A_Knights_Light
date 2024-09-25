@@ -7,6 +7,12 @@
   </h1>
   
   - [Demonstration](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/README.md#quick-demonstration--gameplay)
+  - [Overview](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/README.md#overview-of-game)
+  - [User Guide](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/README.md#user-control-guide)
+  - [Script/s](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/README.md#script-editing-software)
+  - [Assets](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/README.md#asset-showcase)
+  - [Public Assets](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/README.md#public-assets-used)
+  - [Showcase](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/README.md#showcase-of-works)
 
 
 # Quick Demonstration & Gameplay
@@ -62,7 +68,7 @@ https://github.com/user-attachments/assets/b3b530ec-3bd9-42b2-b68c-0a961a1a589b
 - [BGM](https://assetstore.unity.com/packages/audio/music/absolutely-free-music-4883)
 - [ShaderGraph Sprites](https://assetstore.unity.com/packages/essentials/tutorial-projects/happy-harvest-2d-sample-project-259218)
 
-# Showcase of Works
+# Works Showcase
 ![Post Processing](https://github.com/user-attachments/assets/6a2f9842-49d7-496c-88e8-5a3adddda8da) ![Smoke & Sparks](https://github.com/user-attachments/assets/262434d6-8281-4a63-9214-79de870f2ce6)
 
 ![Fire Shader](https://github.com/user-attachments/assets/b67c547f-0fb0-484e-95a5-b6635df883c9)
