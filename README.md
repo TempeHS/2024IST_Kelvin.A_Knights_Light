@@ -1,5 +1,6 @@
+<h1 align="center">
 2024IST_Kelvin.A_
-
+</h1>
 
 
 # Quick Demonstration & Gameplay
