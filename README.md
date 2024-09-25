@@ -1,6 +1,7 @@
-2024IST_Kelvin.A_
-
-
+<h1 align="center">
+  <br />
+ 2024IST_Kelvin.A_
+</h1>
 
 # Quick Demonstration & Gameplay
 https://github.com/user-attachments/assets/b3b530ec-3bd9-42b2-b68c-0a961a1a589b
