@@ -2,9 +2,9 @@
 2024IST_Kelvin.A_
 </h1>
 
-<h1 align= center">
+<h1 align="center">
 # Table of contents
-[Demonstration](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/README.md#quick-demonstration--gameplay)
+['Demonstration'](#https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/README.md#quick-demonstration--gameplay)
 </h1>
 
 # Quick Demonstration & Gameplay
