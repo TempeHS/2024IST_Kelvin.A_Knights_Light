@@ -25,7 +25,7 @@
 ## Overview
 
 <p align="justify">
-This game was developed as a project for an assessment, initially meant to adhere to the theme "Games for Change," though it ultimately diverged from that goal. In the game, you control a knight wielding a special light that illuminates the path ahead. As you navigate through various challenges, such as falling platforms and goblins, the increasing difficulty ensures the game remains engaging. The use of bloom, lighting, and shadows plays a crucial role, with light being a key visual element. Unfortunately, the project remains incomplete.
+This game was made as a project for an assesment, fitting a used to be criteria of "games for change" which was not really met at all. In the game you play as a knight with a special light which lights the path around him, various challenging obstacles can be found in the game such as falling platforms and goblins, increasing the difficulty and making it less Stale and Boring. The game also has post-processing effects to make it look better with the use of bloom, lighting and shadows, letting light be a visible and viable part of the game, IF i had finished
 </p>
 
 ---
