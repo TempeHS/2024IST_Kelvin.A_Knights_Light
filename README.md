@@ -2,9 +2,9 @@
 2024IST_Kelvin.A_
 </h1>
 
-<h1 align="center">
+<h2 align="center">
 Table of contents
-  </h1>
+  </h2>
   
   - [Demonstration](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/README.md#quick-demonstration--gameplay)
   - [Overview](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/README.md#overview-of-game)
