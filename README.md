@@ -50,3 +50,6 @@ https://github.com/user-attachments/assets/b3b530ec-3bd9-42b2-b68c-0a961a1a589b
 
 ![Fog VFX](https://github.com/user-attachments/assets/fb316b80-9147-4a8a-bfb5-8f8b37d856ff)
 
+![Lantern Trail - Shader](https://github.com/user-attachments/assets/ba394c91-41b7-49a5-bdbc-46685569eb3b)
+
+
