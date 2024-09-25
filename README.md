@@ -42,6 +42,9 @@ https://github.com/user-attachments/assets/b3b530ec-3bd9-42b2-b68c-0a961a1a589b
 - [Portal](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/Portal.cs)
 - [Respawn](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/RespawnScript.cs)
 
+# Asset Showcase
+[ASSETS](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/tree/main/My%20project/Assets/Sprite)
+
 
 # Showcase of Works
 ![Post Processing](https://github.com/user-attachments/assets/6a2f9842-49d7-496c-88e8-5a3adddda8da) ![Smoke & Sparks](https://github.com/user-attachments/assets/262434d6-8281-4a63-9214-79de870f2ce6)
@@ -51,5 +54,6 @@ https://github.com/user-attachments/assets/b3b530ec-3bd9-42b2-b68c-0a961a1a589b
 ![Fog VFX](https://github.com/user-attachments/assets/fb316b80-9147-4a8a-bfb5-8f8b37d856ff)
 
 ![Lantern Trail - Shader](https://github.com/user-attachments/assets/ba394c91-41b7-49a5-bdbc-46685569eb3b)
+
 
 
