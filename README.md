@@ -27,7 +27,8 @@ https://github.com/user-attachments/assets/b3b530ec-3bd9-42b2-b68c-0a961a1a589b
 # Script editing software
 ## Visual Studio
 ![image](https://github.com/user-attachments/assets/7f95c7b2-96c0-469b-8fa8-c2487bc9178c)
-## Scripts made using VS
+## Scripts 
+### Main Scripts
 - [Camera Controller](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/Cameracontroller.cs)
 - [Camera Zoom](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/CameraZoom.cs)
 - [Enemy Controller](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/EnemyController.cs)
@@ -41,6 +42,9 @@ https://github.com/user-attachments/assets/b3b530ec-3bd9-42b2-b68c-0a961a1a589b
 - [Player-One-Way-Platform](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/PlayerOneWayPlatform.cs)
 - [Portal](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/Portal.cs)
 - [Respawn](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/RespawnScript.cs)
+
+### ShaderGraphs
+(Fire Shadergraph)[https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Shaders/FireShader.shadergraph]
 
 # Asset Showcase
 [ASSETS](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/tree/main/My%20project/Assets/Sprite)
