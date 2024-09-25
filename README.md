@@ -44,7 +44,10 @@ https://github.com/user-attachments/assets/b3b530ec-3bd9-42b2-b68c-0a961a1a589b
 - [Respawn](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/RespawnScript.cs)
 
 ### ShaderGraphs
-(Fire Shadergraph)[https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Shaders/FireShader.shadergraph]
+- [Fire Shadergraph](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Shaders/FireShader.shadergraph)
+- [Lantern Shadergraph](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Shaders/LanternTrail.shadergraph)
+- [RollingFog Shadergraph](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Shaders/RollingFog.shadergraph)
+- [Trail Shadergraph](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Shaders/Trail.shadergraph)
 
 # Asset Showcase
 [ASSETS](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/tree/main/My%20project/Assets/Sprite)
