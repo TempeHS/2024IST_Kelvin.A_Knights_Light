@@ -52,6 +52,9 @@ https://github.com/user-attachments/assets/b3b530ec-3bd9-42b2-b68c-0a961a1a589b
 # Asset Showcase
 [ASSETS](https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/tree/main/My%20project/Assets/Sprite)
 
+# Public Assets Used
+- [BGM](https://assetstore.unity.com/packages/audio/music/absolutely-free-music-4883)
+- [ShaderGraph Sprites](https://assetstore.unity.com/packages/essentials/tutorial-projects/happy-harvest-2d-sample-project-259218)
 
 # Showcase of Works
 ![Post Processing](https://github.com/user-attachments/assets/6a2f9842-49d7-496c-88e8-5a3adddda8da) ![Smoke & Sparks](https://github.com/user-attachments/assets/262434d6-8281-4a63-9214-79de870f2ce6)
