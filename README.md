@@ -28,24 +28,7 @@ https://github.com/user-attachments/assets/b3b530ec-3bd9-42b2-b68c-0a961a1a589b
 ## Visual Studio
 ![image](https://github.com/user-attachments/assets/7f95c7b2-96c0-469b-8fa8-c2487bc9178c)
 ## Scripts made using VS
-- Camera Controller
-> using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class Cameracontroller : MonoBehaviour
-{
-   public Transform target;
-   public Vector3 posOffset;
-   public float smooth;
-
-   private void LateUpdate()
-   {
-    transform.position = Vector3.Lerp(transform.position,target.position+posOffset,smooth*Time.deltaTime);
-   }
-
-
-}
+- Camera Controller https://github.com/TempeHS/2024IST_Kelvin.A_Knights.Light/blob/main/My%20project/Assets/Scripts/Cameracontroller.cs
 - Camera Zoom
 - Dash
 - Enemy Health
