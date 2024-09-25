@@ -28,24 +28,40 @@ https://github.com/user-attachments/assets/b3b530ec-3bd9-42b2-b68c-0a961a1a589b
 ## Visual Studio
 ![image](https://github.com/user-attachments/assets/7f95c7b2-96c0-469b-8fa8-c2487bc9178c)
 ## Scripts made using VS
-- Movement                                                  
-- Lighting Shadows
-- Camera Follow
 - Camera Controller
+> using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Cameracontroller : MonoBehaviour
+{
+   public Transform target;
+   public Vector3 posOffset;
+   public float smooth;
+
+   private void LateUpdate()
+   {
+    transform.position = Vector3.Lerp(transform.position,target.position+posOffset,smooth*Time.deltaTime);
+   }
+
+
+}
 - Camera Zoom
-- Enemy Damage
-- Monster Damage
-- Enemy Health
-- Ground Check
-- Wall Check
 - Dash
+- Enemy Health
+- Enemy Damage
+- Ground Check
+- Lighting Shadows
 - Main Menu
-- Main Story
+- Main Story                                            
+- Monster Damage
 - Player Health
 - Player Movement
 - Player one way platform
 - Portal
 - Respawn Script
+- Wall Check
+
 
 # Showcase of Works
 ![Post Processing](https://github.com/user-attachments/assets/6a2f9842-49d7-496c-88e8-5a3adddda8da) ![Smoke & Sparks](https://github.com/user-attachments/assets/262434d6-8281-4a63-9214-79de870f2ce6)
