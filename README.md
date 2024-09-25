@@ -3,7 +3,9 @@
  2024IST_Kelvin.A_
 </h1>
 
+<h1 align="center">
 # Quick Demonstration & Gameplay
+</h1>
 https://github.com/user-attachments/assets/b3b530ec-3bd9-42b2-b68c-0a961a1a589b
 
 # Overview of Game
