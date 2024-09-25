@@ -34,18 +34,22 @@ This game was made as a project for an assesment, fitting a used to be criteria 
 
 ### Keyboard and Mouse
 
-- **A**: Move Left
-- **D**: Move Right
-- **S**: Move Down on *some* platforms
-- **Left Shift**: Dash
-- **Space**: Jump
+| Action        | Output                              |
+| ------------- | ----------------------------------- |
+| **A**         | Move Left                           |
+| **D**         | Move Right                          |
+| **S**         | Move Down on *some* platforms       |
+| **Left Shift**| Dash                                |
+| **Space**     | Jump                                |
 
 ### Controller
 
-- **Left Joystick**: Move Left/Right
-- **Left Joystick Down**: Move Down on *some* platforms
-- **Y**: Jump
-- *Note: Dash is currently unresponsive.*
+| Action                     | Output                              |
+| --------------------------- | ----------------------------------- |
+| **Left Joystick**           | Move Left/Right                     |
+| **Left Joystick Down**      | Move Down on *some* platforms       |
+| **Y**                       | Jump                                |
+| *Dash*                      | *Currently unresponsive*            |
 
 ---
 
