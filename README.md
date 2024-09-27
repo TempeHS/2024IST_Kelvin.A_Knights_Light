@@ -18,10 +18,13 @@
 
 ## Quick Demonstration & Gameplay
 
+https://github.com/user-attachments/assets/b3b530ec-3bd9-42b2-b68c-0a961a1a589b
+
+
 [Gameplay Demo](https://github.com/user-attachments/assets/b3b530ec-3bd9-42b2-b68c-0a961a1a589b)
 
 ---
-
+                    
 # General Information
 ## About
 <p align="justify">
