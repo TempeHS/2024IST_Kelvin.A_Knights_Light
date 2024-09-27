@@ -35,7 +35,7 @@ This game was made as a project for an assesment, fitting a used to be criteria 
 
 ## Story
 <p align="justify">
-</p> In this game you play as a knight whose kingdom has been affected by a great evil causing the land to be filled with evils and a thick smog, tired of this mess the king has decieded to send you on a mission to _cleanse_ the land, to help you on your journey a mysterious wizard has given you a special lantern giving you the ability to light up the otherwise unlightable darkness.
+</p> In this game you play as a knight whose kingdom has been affected by a great evil causing the land to be filled with evils and a thick smog, Tired of this mess the king has decieded to send you on a mission to _cleanse_ the land, to help you on your journey a mysterious wizard has given you a special lantern giving you the ability to light up the otherwise unlightable darkness.
 ---
 
 ## User Control Guide
