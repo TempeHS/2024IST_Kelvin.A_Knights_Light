@@ -22,12 +22,21 @@
 
 ---
 
-## Overview
-
+# General Information
+## About
 <p align="justify">
 This game was made as a project for an assesment, fitting a used to be criteria of "games for change" which was not really met at all. In the game you play as a knight with a special light which lights the path around him, various challenging obstacles can be found in the game such as falling platforms and goblins, increasing the difficulty and making it less Stale and Boring. The game also has post-processing effects to make it look better with the use of bloom, lighting and shadows, letting light be a visible and viable part of the game, IF i had finished
 </p>
+---
 
+## Objective
+<p align="justify">
+  The objective of the game is to jump platforms, watch out for traps (Faling platforms), dodge fire around the map and stomp on goblins to destroy them and in order to reach the end.
+</p>
+
+## Story
+<p align="justify">
+</p> In this game you play as a knight whose kingdom has been affected by a great evil causing the land to be filled with evils and a thick smog, tired of this mess the king has decieded to send you on a mission to _cleanse_ the land, to help you on your journey a mysterious wizard has given you a special lantern giving you the ability to light up the otherwise unlightable darkness.
 ---
 
 ## User Control Guide
