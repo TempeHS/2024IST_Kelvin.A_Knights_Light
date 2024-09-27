@@ -27,7 +27,6 @@
 <p align="justify">
 This game was made as a project for an assesment, fitting a used to be criteria of "games for change" which was not really met at all. In the game you play as a knight with a special light which lights the path around him, various challenging obstacles can be found in the game such as falling platforms and goblins, increasing the difficulty and making it less Stale and Boring. The game also has post-processing effects to make it look better with the use of bloom, lighting and shadows, letting light be a visible and viable part of the game, IF i had finished
 </p>
----
 
 ## Objective
 <p align="justify">
